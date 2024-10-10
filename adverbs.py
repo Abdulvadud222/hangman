@@ -1,0 +1,1 @@
+adverbs100 = "carefully, inadvertantly"
